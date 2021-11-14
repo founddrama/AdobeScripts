@@ -1,5 +1,4 @@
 # AdobeScripts
---------------
 
 Some JavaScript-based utility scripts for Adobe Illustrator and Photoshop;
 versions 10 and 7, respectively, which were the current versions back when I
